@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "password": "$2b$12$Iw3sZ7vg2GVJSPcRa2zH8OTKz2rJPOgUmc0kBoWrkfnWnVzhJ1lmW",
+    "role": "admin"
+  },
+  "analyst": {
+    "password": "$2b$12$1wlCNg3LJveVDp7GdUmh8OWhkcQeEM...etc...",
+    "role": "analyst"
+  }
+}
